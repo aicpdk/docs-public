@@ -20,11 +20,9 @@ Use the password reset link on the login page. If that does not help, ask your d
 
 ## Two-factor protection
 
-Two-factor protection is optional for most members. It adds a second step when you log in. You can use:
+Two-factor protection adds a second step when you log in. It is required for department admins and the board. For everyone else it is optional, but recommended. You can use:
 
 - an authenticator app on your phone, or
 - a security key.
 
-You can set it up after logging in. Admins may be required to use it.
-
-> TODO(owner): Is two-factor required for department admins and the board? Where exactly does a member set it up?
+You set it up at your first login, when you are asked.
