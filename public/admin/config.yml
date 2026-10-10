@@ -1,0 +1,25 @@
+backend:
+  name: github
+  repo: aicpdk/docs-public
+  branch: main
+  base_url: https://docs.aicpdk.com/relay
+  auth_endpoint: auth
+  api_root: https://docs.aicpdk.com/relay
+
+media_folder: public/images
+public_folder: /images
+
+collections:
+  - name: docs
+    label: Docs
+    folder: src/content/docs
+    nested:
+      depth: 5
+    extension: md
+    format: frontmatter
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: description, label: Description, widget: string, required: false }
+      - { name: body, label: Body, widget: markdown }
