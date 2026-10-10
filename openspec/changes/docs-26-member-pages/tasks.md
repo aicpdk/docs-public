@@ -1,0 +1,2 @@
+- [x] Write the member pages
+- [x] Verify the pages build with the docs image toolchain
