@@ -22,4 +22,4 @@ Contact the board for matters that concern a department as a whole, for example 
 
 Developers run the products. Members do not contact them directly. If something needs a developer, tell your department admin. The department admin takes it further.
 
-> TODO(owner): Should the page name a shared channel or address for the board, or is it enough that members ask their department?
+The board has no shared address. Members reach the board through their department admin, in the same way as developers.

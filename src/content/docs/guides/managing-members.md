@@ -33,6 +33,8 @@ You cannot change a member's home department. Only the board and developers do m
 
 ## Former members
 
-When a member leaves, they become a former member. Their record is kept and their login is blocked until they join a department again.
+When a member leaves, you mark them as left. They become a former member. Their record is kept and their login is blocked until they join a department again.
 
-> TODO(owner): Can a department admin edit personal data directly, or must changes go through the board? Who marks a member as left?
+## Personal data
+
+You edit the personal data of your department's members directly. You do not need the board's approval. This applies to your own department only.
