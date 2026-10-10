@@ -1,0 +1,2 @@
+- [x] Create the repo and scaffold the site
+- [x] Verify the site builds with the docs image toolchain
