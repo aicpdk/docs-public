@@ -30,8 +30,16 @@ What icel knows about a member as a person: name, address, phone, email and rela
 _Avoid_: profile, user data, contact info
 
 **Relation**:
-A family link between two members, e.g. parent, guardian, partner or sibling.
-_Avoid_: connection, link, family member
+A link between two members: family (parent, step-parent, guardian, partner, sibling) or contact (emergency contact, other).
+_Avoid_: connection, link, family member (a relation can also be a contact)
+
+**Guardian**:
+A relation: a member legally responsible for a child who is not the child's parent.
+_Avoid_: using it for every student contact
+
+**Emergency contact**:
+A relation: a member a school may call about a student in an emergency, family or not.
+_Avoid_: next of kin, guardian
 
 **Home department**:
 The one department a member comes from and belongs to. It owns the member's record and personal data.
@@ -56,6 +64,14 @@ _Avoid_: staff, volunteer, worker
 **Customer**:
 A member a department serves. Today a customer is a record only; logging in may come later.
 _Avoid_: client, end user
+
+**Student**:
+A person a school teaches. A student is a member with the customer role in the department that runs the school.
+_Avoid_: pupil, roster entry
+
+**Student contact**:
+A member linked to a student by a relation: parent, guardian, emergency contact or other.
+_Avoid_: guardian (that is one kind of relation), parent
 
 **Department admin**:
 A member who manages the members of their own department and no other. Beyond the name and contact details of referenced members, they can't see other departments' members.
