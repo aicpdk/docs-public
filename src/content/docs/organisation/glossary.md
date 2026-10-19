@@ -103,6 +103,10 @@ _Avoid_: tenant, class
 What a member is in one school, e.g. school admin or teacher. Mudawama decides it, and only among the schools of departments that give the member access to Mudawama.
 _Avoid_: department role (that is Registry's)
 
+**Event**:
+One scheduled meeting of a class in Mudawama, with a date, a place and the teachers who take it. Attendance is registered per event. An event can repeat, for example every Monday and Wednesday, and then each meeting is its own event. A single meeting can be cancelled without affecting the others.
+_Avoid_: lesson, session, appointment
+
 **Department scope**:
 The rule that a member sees data in a product only for the departments that gave them access to it, whether home or referencing. Access through one department never shows another department's data. The board and developers see all departments.
 _Avoid_: tenant isolation, data partition
