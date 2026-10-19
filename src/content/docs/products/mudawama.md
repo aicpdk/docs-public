@@ -83,7 +83,7 @@ Only a school admin can invite. The **People** page is only shown to school admi
 
 The person is invited to the school you are working in. Check which school is chosen before you send.
 
-Choose **Teacher** for someone who teaches. Choose **Admin** for someone who will help run the school, with the same powers as you, including inviting others. You can change the role later from the **People** page on the website.
+Choose **Teacher** for someone who teaches. Choose **Admin** for someone who will help run the school, with the same powers as you, including inviting others. You can change the role later from the **Users** page on the website. The app cannot change roles.
 
 ### What the invited person does
 
