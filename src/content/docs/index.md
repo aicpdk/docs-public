@@ -18,7 +18,8 @@ icel is one company with departments across Denmark. These pages explain how it 
 
 - [Mudawama](/products/mudawama/): run schools
 - [Registry](/products/registry/): the list of members (not live yet)
-- [CMS](/products/cms/): the mosque TV screen
+- [TV board](/products/tv-board/): the screen in the mosque
+- [CMS](/products/cms/): change the text on the TV board
 
 ## Guides
 

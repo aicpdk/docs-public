@@ -47,6 +47,7 @@ export default defineConfig({
           items: [
             { label: 'Mudawama', slug: 'products/mudawama' },
             { label: 'Registry', slug: 'products/registry' },
+            { label: 'TV board', slug: 'products/tv-board' },
             { label: 'CMS', slug: 'products/cms' },
           ],
         },
