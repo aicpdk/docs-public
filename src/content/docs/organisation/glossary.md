@@ -107,6 +107,22 @@ _Avoid_: department role (that is Registry's)
 One scheduled meeting of a class in Mudawama, with a date, a place and the teachers who take it. Attendance is registered per event. An event can repeat, for example every Monday and Wednesday, and then each meeting is its own event. A single meeting can be cancelled without affecting the others.
 _Avoid_: lesson, session, appointment
 
+**School fee** (Danish: skolepenge):
+The fixed monthly amount a school charges for each student. Each school sets its own. Parents pay it outside Mudawama; Mudawama only records whether it has been paid. Not the same as a member's membership fee.
+_Avoid_: tuition, membership fee, subscription
+
+**Fee start month**:
+The first month a student owes the school fee. The student owes it every month from then until they are archived.
+_Avoid_: enrolment date, join date
+
+**Payment**:
+A school admin's record that a school fee was received: who paid, when, and which students and months it covers. One payment can cover several siblings and several months, including months ahead.
+_Avoid_: transaction, invoice
+
+**Payer**:
+The person a payment came from, usually one of the student's guardians, but it can be anyone the admin names.
+_Avoid_: customer, debtor
+
 **Department scope**:
 The rule that a member sees data in a product only for the departments that gave them access to it, whether home or referencing. Access through one department never shows another department's data. The board and developers see all departments.
 _Avoid_: tenant isolation, data partition
