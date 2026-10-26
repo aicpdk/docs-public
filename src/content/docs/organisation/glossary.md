@@ -108,7 +108,7 @@ One scheduled meeting of a class in Mudawama, with a date, a place and the teach
 _Avoid_: lesson, session, appointment
 
 **School fee** (Danish: skolepenge):
-The fixed monthly amount a school charges for each student. Each school sets its own. Parents pay it outside Mudawama; Mudawama only records whether it has been paid. Not the same as a member's membership fee.
+The fixed monthly amount a school charges for each student, if it charges one. Each school decides whether it has a fee and sets its own amount; a school without one has no fees to track. Parents pay it outside Mudawama; Mudawama only records whether it has been paid. Not the same as a member's membership fee.
 _Avoid_: tuition, membership fee, subscription
 
 **Fee start month**:
@@ -120,7 +120,7 @@ A school admin's record that a school fee was received: who paid, when, and whic
 _Avoid_: transaction, invoice
 
 **Payer**:
-The person a payment came from, usually one of the student's guardians, but it can be anyone the admin names.
+The person a payment came from, usually one of the student's contacts, such as a parent, but it can be anyone the admin names.
 _Avoid_: customer, debtor
 
 **Department scope**:
